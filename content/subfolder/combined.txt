@@ -1,0 +1,1 @@
+This is the combined Async texts: This is the 1st - first text file.This is a content to be appended asynchorinouslyThis is THE content to be appended asynchorinouslyThis is THE content to be appended asynchorinouslyThis is THE content to be appended asynchorinouslyThis is THE content to be appended asynchorinously... This is the 2nd - second text file. 
